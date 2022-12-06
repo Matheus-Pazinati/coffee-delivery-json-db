@@ -3,10 +3,152 @@
         {
             "id": "1",
             "name": "Expresso Tradicional",
-            "image": "teste.png",
+            "image": "https://phx02pap001files.storage.live.com/y4mwSV8gUllHh6IcSR09YuYK26aCKhMcqBWbsdwtPAEM6We-EQly_NVXN8weEyQPh7w0haeDTy6KE3eZv-7yHcpR6t7bTFrCKu9c_DrThvjJ5BSDhbbbW7ssf_RK8yqjcBiMCqe7yEi0cEBIsSBR38KVBC6Rw6sKc4Psl7n0I3XvLaXHqkM6pHpf4J0k7EGXCZ2?width=100&height=100&cropmode=none",
             "description": "O tradicional café feito com água quente e grãos moídos",
-            "tags": ["tradicional"],
-            "price": "4,90"
+            "tags": [
+                "tradicional"
+            ],
+            "price": "6,90"
+        },
+        {
+            "id": "2",
+            "name": "Expresso Americano",
+            "image": "https://phx02pap001files.storage.live.com/y4mTTJDr86lMLp9bAsVn4W_peSqhJzVWou31RN0jTB4_G0OJjdUDg8jc2a5wy_soihuA8wcQTlGGou7z-muzBETrynQPxkIhspVPRrDj1zHc-2jVchme_VyCP8RqUADhRg8pMGnBm91gTSbdXQLkoTy0wW5NNIOC0OEEW6EU4D6owVBI0ERM_OEoYuOfW4I22GO?width=100&height=100&cropmode=none",
+            "description": "Expresso diluído, menos intenso que o tradicional",
+            "tags": [
+                "tradicional"
+            ],
+            "price": "6,90"
+        },
+        {
+            "id": "3",
+            "name": "Expresso Cremoso",
+            "image": "https://phx02pap001files.storage.live.com/y4mQ9_4PMZ39LvU9nx3VTI7kTuE5WfISAK1h_1PAPxf63j3Y6r7F3FWDUoXjh7biRIcC6Xhr538J-HmU6ZLbgDhL95WKn8zX8NHBNvTKlTgDrdoulyj5zqaAkxKlytV9W1njlzY4-G1a0pAi3vvk3fR7JlK1ZMAhQxBJi7COAbqjfhWUR9FMC3BeDSdvCL2DCQJ?width=100&height=100&cropmode=none",
+            "description": "Café expresso tradicional com espuma cremosa",
+            "tags": [
+                "tradicional"
+            ],
+            "price": "7,90"
+        },
+        {
+            "id": "4",
+            "name": "Expresso Gelado",
+            "image": "https://phx02pap001files.storage.live.com/y4mjIHd8MCy1DqHObRvjh6z29PxIhZPpQXh5jUwvWe9IiDa6WtXVoDvv6vhVFd1t0PrMrRYe8lRAD7i0IGjTNqrZkscSp-5VdX4cI5ZR4sNVx9x5NeW04aY6m3QZ7Brkd-zPh57iF-Mdzn0_8sia5_bvGGCTZ1Q71x6-RGeqxlpQ6ggVDVEmCZf_60dOPeDd_3B?width=100&height=100&cropmode=none",
+            "description": "Bebida preparada com café expresso e cubos de gelo",
+            "tags": [
+                "tradicional",
+                "gelado"
+            ],
+            "price": "7,90"
+        },
+        {
+            "id": "5",
+            "name": "Café com Leite",
+            "image": "https://phx02pap001files.storage.live.com/y4mDcTgeDCU1LPFOBpxFKduUKx_JLYpxX1X7mmN2Xaom8Nx99gpeWo8taqWCpdFKSOMDKr_Djpk3fE_7lZbsCCDRNKkrVgfNQ8BDOFWh5KIzTjkREFhqDMl18sY1fx36t_aHKIA3iBV7L7SPi40i95xZ8S-9pBHNLB-yIp3-Qppy7wqwxQ0uSNhBYZ8Mu0rQeCa?width=100&height=100&cropmode=none",
+            "description": "Meio a meio de expresso tradicional com leite vaporizado",
+            "tags": [
+                "tradicional",
+                "com leite"
+            ],
+            "price": "7,90"
+        },
+        {
+            "id": "6",
+            "name": "Latte",
+            "image": "https://phx02pap001files.storage.live.com/y4mKaaz41NGO7RG1xTieN62tBe2kDzQxQDDOZPjwOQqlkPRgDxjVCxdWNnPVtk4FvJ48W7r6ASPBH0kFpmdUpqiy-3YDGMCzRaXGETf2frnK8SHS0o7OvdlBwAApklM_jsBITwWs4_ZXU4ZUosHx16SuCKBkwrlSKRUkNyAyQXjtKf_DaHh8dkGEKNhLolZuOlr?width=100&height=100&cropmode=none",
+            "description": "Uma dose de café expresso com o dobro de leite e espuma cremosa",
+            "tags": [
+                "tradicional",
+                "com leite"
+            ],
+            "price": "8,90"
+        },
+        {
+            "id": "7",
+            "name": "Capuccino",
+            "image": "https://phx02pap001files.storage.live.com/y4mEFmrGlz891CfoxHy0hpd3eHSs0j9cDxuFecldp6KCAkotBVG5n4FkUoVyAIfT3XexeQ0ds_cOZXurX016-qys_iGdCQWmWJE3FEtY6JgtJikPkNpExkIW4SibX0tnpTH1YtxpBGBefNyGB0Wjh81ZhfFrJDq9gRa1H-uhwfUuARyrtqPHpbX-NjxCKACwqaP?width=100&height=100&cropmode=none",
+            "description": "Bebida com canela feita de doses iguais de café, leite e espuma",
+            "tags": [
+                "tradicional",
+                "com leite"
+            ],
+            "price": "8,90"
+        },
+        {
+            "id": "8",
+            "name": "Macchiato",
+            "image": "https://phx02pap001files.storage.live.com/y4m2H60ROdnEzlUVo38jGlTqnwD8SWkTcIuobESow9cDHQ0Hp_ACia4XuTl4MnXFy7HJpJEN8HUSd8hP2WNmk9T9msFgwCQSEQ49XgzSqgO5xv2pyZ_t2TPFI0gCbMlxiDLxPRIdGl_tHikvqa4D7XPFVe6MBYz3cMFGnQUyVfExpZJ5oCakCLA1csVNx7UPNBC?width=100&height=100&cropmode=none",
+            "description": "Café expresso misturado com um pouco de leite quente e espuma",
+            "tags": [
+                "tradicional",
+                "com leite"
+            ],
+            "price": "8,90"
+        },
+        {
+            "id": "9",
+            "name": "Mocaccino",
+            "image": "https://phx02pap001files.storage.live.com/y4mdcKmXIBg6B57_SHBJPP1afVDMIQynQUXUhUH1fKfDCq9oiNG580tmdwhPu3hLK2QIzOgi7dYnQbt0dEZ6mcZQZnT1FTchy08yEY12TfpokeYjDfIhV8p4xT7METHn5lL-kltOnhb1yvF-arC1AHB15EgN8T2Mayd5Ui3Pt-W9dHMzCGyvCt70Uy7H9hwl6zH?width=100&height=100&cropmode=none",
+            "description": "Café expresso com calda de chocolate, pouco leite e espuma",
+            "tags": [
+                "tradicional",
+                "com leite"
+            ],
+            "price": "9,90"
+        },
+        {
+            "id": "10",
+            "name": "Chocolate Quente",
+            "image": "https://phx02pap001files.storage.live.com/y4m5cxEmeTxoYPL2x7r9Gu2yf5tljuTVOk0O51PncBcNffe1rW9HwG-mZEr45McbWObs3G3Zofz5ZMafQJjibFtX1h3LA6lhxauRnX8Jm7kfjEfSAWPzShQV7_2rD9lNtx1S97Tj7DVjMiBAgFuJD7IaZz02edNhqjyOU8E7XoOs4NLAAOCDPxehbTSxwuKiOY3?width=100&height=100&cropmode=none",
+            "description": "Bebida feita com chocolate dissolvido no leite quente e café",
+            "tags": [
+                "especial",
+                "com leite"
+            ],
+            "price": "10,90"
+        },
+        {
+            "id": "11",
+            "name": "Havaiano",
+            "image": "https://phx02pap001files.storage.live.com/y4mclFp0KW2I5OViQdSa0oeh7gP9QYG-3VP8tibEtjT5SeygsJUQch-qEdMReos1I5BlOvzONu4jsWhkQf-nKt8GsD3It1ZbNoMG8T052gq2Mp8acYM45vSDsCngfC5ndPsXPDjDp-t6fLMvejkJE6B5y34mxIAE3mGLWp8MxWTlwScQAoBi9oTvUBhwF6SRdsy?width=100&height=100&cropmode=none",
+            "description": "Bebida adocicada preparada com café e leite de coco",
+            "tags": [
+                "especial"
+            ],
+            "price": "10,90"
+        },
+        {
+            "id": "12",
+            "name": "Cubano",
+            "image": "https://phx02pap001files.storage.live.com/y4mN47SXJo83fFyO1pWuiaMNAso6kQ6uyx_rXTbPTk-hSICga_V9WKmZY2u7AFlol4DLTRn3DZtTVOAyX2xTbFqGEUTO-CRiTKeXvtJDnLDZmuOR0QQw5rHfLmX8pSQYiVkOmw2sUeduwlBlIFYAH6ULZZUjOL-FAwCaPpaKfZvlk47aEbXaft3PUPWgLI6LqEx?width=100&height=100&cropmode=none",
+            "description": "Drink gelado de café expresso com rum, creme de leite e hortelã",
+            "tags": [
+                "especial",
+                "alcoólico",
+                "gelado"
+            ],
+            "price": "12,90"
+        },
+        {
+            "id": "13",
+            "name": "Árabe",
+            "image": "https://phx02pap001files.storage.live.com/y4m5tzV8cjl1Y0Kf2eX98hRKyhNk3XcIwAOr9x5Z0As8YJTQxze5HEcxkNIlMmUdNeUDRuESnkexY8SEzF6aYRCisisrn-Gi6vsfS9tEfj76gerOIBzwYbNxF5ZaQHLX-hP23L8OEICWuYWQ2qRuYCvarKtx_Th_idBXFfSUTC-MEHtndLhEGtWNdZ4pIQx4mX6?width=100&height=100&cropmode=none",
+            "description": "Bebida preparada com grãos de café árabe e especiarias",
+            "tags": [
+                "especial"
+            ],
+            "price": "15,90"
+        },
+        {
+            "id": "14",
+            "name": "Irlandês",
+            "image": "https://phx02pap001files.storage.live.com/y4mQRVc4q4qcegcel5OVPp-UFYuvSQvIngl8gjDzqz6wxUKNjS9C47UnPcX72kbfnPrAo0sy94vIAm8a6ewot7HWT2i4vy62V-W2G2UCHZGR-SCkxWMYrTVawadhCvTLOfVeVnbgo4qdzHoail-Dmkfoy78IfF6OPgkjWeBpdHc-AlsRxW_PSuFD59bp30kvZ7e?width=100&height=100&cropmode=none",
+            "description": "Bebida a base de café, uísque irlandês, açúcar e chantilly",
+            "tags": [
+                "especial",
+                "alcoólico"
+            ],
+            "price": "19,90"
         }
     ]
 }
