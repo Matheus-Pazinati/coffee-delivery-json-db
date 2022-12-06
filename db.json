@@ -8,7 +8,7 @@
             "tags": [
                 "tradicional"
             ],
-            "price": "6,90"
+            "price": 6.90
         },
         {
             "id": "2",
@@ -18,7 +18,7 @@
             "tags": [
                 "tradicional"
             ],
-            "price": "6,90"
+            "price": 6.90
         },
         {
             "id": "3",
@@ -28,7 +28,7 @@
             "tags": [
                 "tradicional"
             ],
-            "price": "7,90"
+            "price": 7.90
         },
         {
             "id": "4",
@@ -39,7 +39,7 @@
                 "tradicional",
                 "gelado"
             ],
-            "price": "7,90"
+            "price": 7.90
         },
         {
             "id": "5",
@@ -50,7 +50,7 @@
                 "tradicional",
                 "com leite"
             ],
-            "price": "7,90"
+            "price": 7.90
         },
         {
             "id": "6",
@@ -61,7 +61,7 @@
                 "tradicional",
                 "com leite"
             ],
-            "price": "8,90"
+            "price": 8.90
         },
         {
             "id": "7",
@@ -72,7 +72,7 @@
                 "tradicional",
                 "com leite"
             ],
-            "price": "8,90"
+            "price": 8.90
         },
         {
             "id": "8",
@@ -83,7 +83,7 @@
                 "tradicional",
                 "com leite"
             ],
-            "price": "8,90"
+            "price": 8.90
         },
         {
             "id": "9",
@@ -94,7 +94,7 @@
                 "tradicional",
                 "com leite"
             ],
-            "price": "9,90"
+            "price": 9.90
         },
         {
             "id": "10",
@@ -105,7 +105,7 @@
                 "especial",
                 "com leite"
             ],
-            "price": "10,90"
+            "price": 10.90
         },
         {
             "id": "11",
@@ -115,7 +115,7 @@
             "tags": [
                 "especial"
             ],
-            "price": "10,90"
+            "price": 10.90
         },
         {
             "id": "12",
@@ -127,7 +127,7 @@
                 "alcoólico",
                 "gelado"
             ],
-            "price": "12,90"
+            "price": 12.90
         },
         {
             "id": "13",
@@ -137,7 +137,7 @@
             "tags": [
                 "especial"
             ],
-            "price": "15,90"
+            "price": 15.90
         },
         {
             "id": "14",
@@ -148,7 +148,7 @@
                 "especial",
                 "alcoólico"
             ],
-            "price": "19,90"
+            "price": 19.90
         }
     ]
 }
